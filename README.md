@@ -1,2 +1,1 @@
-# MySQL-and-database-assignment 
-# Grade: G
+# MySQL-and-database
